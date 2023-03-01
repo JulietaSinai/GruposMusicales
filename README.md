@@ -28,4 +28,4 @@ Aprender a utilizar las etiquetas estándar de HTML5.
 
 ## 4.Link a Demo
 
-Aquí puedes visualizar mi proyecto terminado: [Grupos Musicales](https://https://gruposmusicalesespop.netlify.app//)
+Aquí puedes visualizar mi proyecto terminado: [Grupos Musicales](https://https://gruposmusicalesespop.netlify.app/)
